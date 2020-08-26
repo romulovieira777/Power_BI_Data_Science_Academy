@@ -9,7 +9,7 @@ Seu gerente vai apresentar os resultados da equipe comercial para o novo CEO da
 empresa e precisa da sua ajuda para construir um Dashboard que represente os dados de
 vendas no período de 2016 a 2019.
 
-Sua fonte de dados é um [arquivo Excel](https://github.com/romulovieira777/Power_BI_Data_Science_Academy/tree/master/Cap02/1-DadosVendaCarros) com dados coletados do sistema de vendas e
+Sua fonte de dados é um [arquivo Excel](https://github.com/romulovieira777/Power_BI_Data_Science_Academy_2.0/blob/master/Cap%C3%ADtulo%2002/DadosVendaCarros.xlsx) com dados coletados do sistema de vendas e
 CRM da empresa, com a as seguintes colunas:
 
 | Coluna | Descrição |
