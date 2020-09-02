@@ -5,3 +5,4 @@
 - Primeiro Passos com Power BI Desktop 
 - Business Intelligence no Power BI
 - Modelagem, Relacionamento e DAX
+- Limpeza, Transformação, Séries Temporais, Agregação e Filtros
