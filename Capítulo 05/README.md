@@ -40,3 +40,4 @@ Devem ser apresentados:
 <br>
 <img height="520" src="https://github.com/romulovieira777/Power_BI_Data_Science_Academy_2.0/blob/master/Cap%C3%ADtulo%2005/Exerc%C3%ADcio/Feminino.jpg"/>
 </br>
+
