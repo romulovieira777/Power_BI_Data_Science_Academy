@@ -7,3 +7,4 @@
 - [Modelagem, Relacionamento e DAX](https://github.com/romulovieira777/Power_BI_Data_Science_Academy_2.0/tree/master/Cap%C3%ADtulo%2004)
 - [Limpeza, Transformação, Séries Temporais, Agregação e Filtros](https://github.com/romulovieira777/Power_BI_Data_Science_Academy_2.0/tree/master/Cap%C3%ADtulo%2005)
 - [Gráficos e Mapas]()
+- [Dashboards Interativos]()
