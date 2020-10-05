@@ -34,14 +34,14 @@ Os diretores precisam saber:
 
 ## Dashboard Construído 01
 [Arquivo em JPG](https://github.com/romulovieira777/Power_BI_Data_Science_Academy_2.0/blob/master/Cap%C3%ADtulo%2007/Desafio/Desafio%20DSA.jpg)
+
 <br>
-<img height="600" src="https://github.com/romulovieira777/Power_BI_Data_Science_Academy_2.0/blob/master/Cap%C3%ADtulo%2007/Desafio/Desafio%20DSA.jpg/>
+<img height="600" src="https://github.com/romulovieira777/Power_BI_Data_Science_Academy_2.0/blob/master/Cap%C3%ADtulo%2007/Desafio/Desafio%20DSA.jpg"/>
 <br/>
 
 ## Dashboard Construído 02
 [Arquivo em JPG](https://github.com/romulovieira777/Power_BI_Data_Science_Academy_2.0/blob/master/Cap%C3%ADtulo%2007/Desafio/Desafio%20Seguro%20Sa%C3%BAde_01%20-%20Power%20BI%20Desktop.jpg)
+
 <br>
 <img height="600" src="https://github.com/romulovieira777/Power_BI_Data_Science_Academy_2.0/blob/master/Cap%C3%ADtulo%2007/Desafio/Desafio%20Seguro%20Sa%C3%BAde_01%20-%20Power%20BI%20Desktop.jpg"/>
 <br/>
-
-
