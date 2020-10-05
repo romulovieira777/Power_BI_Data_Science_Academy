@@ -32,8 +32,16 @@ Os diretores precisam saber:
 9. Se o usuário for mulher, o imc é acima ou abaixo da média?
 10. Se for homem, com mais de 50 anos e da região Sudeste, o gasto é maior ou menor que a média de gastos da região?
 
-## Dashboard Construído
+## Dashboard Construído 01
 [Arquivo em JPG](https://github.com/romulovieira777/Power_BI_Data_Science_Academy_2.0/blob/master/Cap%C3%ADtulo%2007/Desafio%20DSA.jpg)
 <br>
 <img height="600" src="https://github.com/romulovieira777/Power_BI_Data_Science_Academy_2.0/blob/master/Cap%C3%ADtulo%2007/Desafio%20DSA.jpg"/>
 <br/>
+
+## Dashboard Construído 02
+[Arquivo em JPG](https://github.com/romulovieira777/Power_BI_Data_Science_Academy_2.0/blob/master/Cap%C3%ADtulo%2007/Desafio/Desafio%20Seguro%20Sa%C3%BAde_01%20-%20Power%20BI%20Desktop.jpg)
+<br>
+<img height="600" src="https://github.com/romulovieira777/Power_BI_Data_Science_Academy_2.0/blob/master/Cap%C3%ADtulo%2007/Desafio/Desafio%20Seguro%20Sa%C3%BAde_01%20-%20Power%20BI%20Desktop.jpg"/>
+<br/>
+
+
