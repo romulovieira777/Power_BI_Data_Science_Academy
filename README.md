@@ -9,4 +9,4 @@
 - [Gráficos e Mapas](https://github.com/romulovieira777/Power_BI_Data_Science_Academy_2.0/tree/master/Cap%C3%ADtulo%2006)
 - [Dashboards Interativos](https://github.com/romulovieira777/Power_BI_Data_Science_Academy_2.0/tree/master/Cap%C3%ADtulo%2007)
 
-Link para o curso: https://www.datascienceacademy.com.br/course?courseid=microsoft-power-bi-para-data-science
+Link para o curso 100% Gratuito: [Data Science Academy](https://www.datascienceacademy.com.br/course?courseid=microsoft-power-bi-para-data-science)
